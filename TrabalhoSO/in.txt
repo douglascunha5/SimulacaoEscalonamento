@@ -1,0 +1,12 @@
+Multiprogramacao=4
+Processos:
+P1=110-CPU,45-ES,10-CPU;1
+P2=20-CPU,80-ES,50-CPU;2
+P3=50-CPU,40-ES,10-CPU;3
+P4=120-CPU,10-ES,5-CPU;4
+P5=30-CPU,80-ES,100-CPU;0
+;
+Operações do SO:
+CPR=5
+TCP=5
+TPR=5
